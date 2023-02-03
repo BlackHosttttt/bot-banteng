@@ -20,7 +20,7 @@ global.developer = "Banteng Biru" //nama lu
 global.ytname = "kaga Punya" //ur yt chanel name
 global.socialm = "wa.me/6282143349069" //ur github or insta name
 global.sgc = "https://chat.whatsapp.com/El5YxNNUx89ecCRpOoOtO"
-global.location = "Jombanh" //ur location
+global.location = "Jombang" //ur location
 
 //bot bomdy 
 global.owner = ['6282143349069'] //ur number
@@ -42,7 +42,7 @@ global.author = "Banteng Biru" //ur sticker watermark author
 global.wm = "Banteng Biru" //ur watermark
 
 // Other
-global.sessionName = 'Session'
+global.sessionName = 'banteng'
 global.prefa = ['','!','.','#','&']
 global.sp = ''
 global.mess = {
