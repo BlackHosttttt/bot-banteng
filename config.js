@@ -42,7 +42,7 @@ global.author = "Banteng Biru" //ur sticker watermark author
 global.wm = "Banteng Biru" //ur watermark
 
 // Other
-global.sessionName = 'banteng'
+global.sessionName = 'Session'
 global.prefa = ['','!','.','#','&']
 global.sp = ''
 global.mess = {
